@@ -273,3 +273,9 @@ function initLoadedContent() {
 document.addEventListener("DOMContentLoaded", function () {
   initNavigation();
 });
+
+const toggleContrast = document.getElementById("toggle-contrast");
+
+toggleContrast.addEventListener("click", () => {
+  document.body.classList.toggle("dark-mode");
+});

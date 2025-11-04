@@ -126,6 +126,22 @@ nav a.active {
   }
 
 }
+/* Modo claro */
+body {
+  background-color: #ffffff;
+  color: #222222;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+/* Modo escuro  */
+body.dark-mode {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+#toggle-contrast:focus {
+    outline: 3px solid rgba(241, 241, 90, 0.8);
+}
 
 #contato,#redes{
     padding: 20px 16px;
