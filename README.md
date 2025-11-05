@@ -22,6 +22,9 @@ Página de apresentação de projetos e campanhas realizadas.
 Funcionalidades:
 Navegação entre páginas via menu fixo e layout adaptável para celular e desktop.
 
+Deploy:
+Site publicado: [https://sophiagraneiro.github.io/ong/](https://sophiagraneiro.github.io/ong/)
+
 Para o desenvolvimento, foram utilizados:
 HTML5 Semântico, CSS3, JavaScript e Git/GitHub.
 
